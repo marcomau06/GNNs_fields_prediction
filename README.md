@@ -5,7 +5,7 @@ just accepted for publication in Scientific Reports.
 
 December, 2022
 
-Each folder contains the corresponding ML code for the mechanics example reported in the paper. The code is reported as developed initially by the authors; hence, the user should use his/her own dataset. The code of the ML models can be instead readily used. 
+Each folder contains the ML code for the corresponding mechanics example reported in the paper. The code is reported as developed initially by the authors; hence, the user should use his/her own dataset. The code of the ML models can be instead readily used. 
 
 If you use or edit our work, please cite the paper:
 
