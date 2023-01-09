@@ -1,7 +1,7 @@
 # GNNs_fields_prediction
 
 Machine learning (ML) code used in the paper "Predicting stress, strain and deformation fields in materials and structures with graph neural networks"
-just accepted for publication in Scientific Reports. 
+published in Scientific Reports. 
 
 December, 2022
 
